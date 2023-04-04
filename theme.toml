@@ -1,0 +1,12 @@
+name = "n3a7-hugo-shortcodes"
+license = "Unlicense"
+licenselink = "https://github.com/NickAnderegg/hugo-shortcodes/blob/master/LICENSE"
+description = ""
+homepage = "http://github.com/NickAnderegg/hugo-shortcodes/"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Nick Anderegg"
+  homepage = "https://n3a7.dev/"
